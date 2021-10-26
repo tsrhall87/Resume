@@ -1,10 +1,10 @@
  
-# **Thomas Hall**	
+# <div align="center">**Thomas Hall**</div>	
 
 
-											       tsrhall87@gmail.com
-                                                                                           (206)229-0275
-#### <div align="center">**Technical Manager**</div>
+<div align="center">tsrhall87@gmail.com (206) 229-0275 [LinkedIn](https://www.linkedin.com/in/tsrhall/) </div>
+
+#### <div align="center">**Project Manager**</div>
 
 Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation. Eager to bring my worth ethic and good attitude to the challenging, diverse and ever-evolving IT field!
 
