@@ -2,21 +2,21 @@
 # <div align="center">**Thomas Hall**</div>	
 
 
-<div align="center">tsrhall87@gmail.com (206) 229-0275 [LinkedIn](https://www.linkedin.com/in/tsrhall/) </div>
+<div align="center">tsrhall87@gmail.com    |    (206) 229-0275    |     <a href="https://www.linkedin.com/in/tsrhall/">LinkedIn</a> </div>
 
-#### <div align="center">**Project Manager**</div>
+&nbsp;
 
-Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation. Eager to bring my worth ethic and good attitude to the challenging, diverse and ever-evolving IT field!
+<div align="center">Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation. Eager to bring my worth ethic and good attitude to the challenging, diverse and ever-evolving IT field!</div>
 
-##### <div align="center">Professional Development Courses/Certifications
+#### <div align="center">Professional Development Courses/Certifications</div>
 
-| <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRLxD-b5ymVkRtq2?e=X9i4AK">PMI PMP</a> | SQL User Cse (Udemy) | CompTIA A+/Network+
+<div align="center">| <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRLxD-b5ymVkRtq2?e=X9i4AK">PMI PMP</a> | SQL User Cse (Udemy) | CompTIA A+/Network+
 | CMI Level 6 Management & Leadership | Adv Excel Cse (Udemy)
 | APM Project Management (PMQ) | Lean Six Sigma (Yellow Belt)
 | Wharton Business Foundation Specialization (Coursera)
 | SmartSheet Product Certified User 
 
-### **Professional Experience**
+#### Professional Experience </div>
 
 **IT Project Manager**		                                  **(June 2021 - Current)**
 
