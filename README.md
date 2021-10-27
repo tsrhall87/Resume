@@ -8,7 +8,7 @@
 
 #### <div align="center">Professional Development Courses/Certifications</div>
 
-<div align="center">| <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRLxD-b5ymVkRtq2?e=X9i4AK">PMI PMP</a> | SQL User Cse (Udemy) | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRTeP8841WvOUdIW">CompTIA A+/a> | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRjOhEV5x1CFyi55">CompTIA Network+/a>
+<div align="center">| <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRLxD-b5ymVkRtq2?e=X9i4AK">PMI PMP</a> | SQL User Cse (Udemy) | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRTeP8841WvOUdIW">CompTIA A+</a> | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRjOhEV5x1CFyi55">CompTIA Network+</a>
 | CMI Level 6 Management & Leadership | Adv Excel Cse (Udemy)
 | APM Project Management (PMQ) | Lean Six Sigma (Yellow Belt)
 | Wharton Business Foundation Specialization (Coursera)
