@@ -8,7 +8,8 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 ---
 
-## Professional Development
+## Professional Development 
+*[Link to certifications](https://1drv.ms/u/s!AhiHKHWaEtD-gREnD43GaYiCqNNm?e=UG2TnH)*
 
 ||||
 |:---:|:---:|:---:|
