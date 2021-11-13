@@ -22,7 +22,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 ## Professional Experience
 
 
-#### IT Project Manager | RSI | June 2021 - Current
+#### IT Project Manager | RSI | 2021 - Current
 Project manager for an IT multivendor services and solutions company in the North West.
 
 > *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and  scheduling to deliver the most projects on both budget and schedule. This was reflected in an 11% increase in profit margin on my projects since joining, 10% more than any other PM.
@@ -69,7 +69,7 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 ---
 
 ## Additional
-*	Twice awarded the Ward Booth Trophy, from the British Army Air Corps, for bringing the most credit to the Corps in a given year.
+*	Awarded the Ward Booth Trophy (2018 & 2020), from the British Army Air Corps, for bringing the most credit to the Corps in a given year.
 *	Awarded the US Army Air Medal and Achievement Medal, as a foreign officer, for service with the US Military during in Afghanistan.
 *	Avid skier, cyclist and hiker. Also a love of old Land Rovers having rebuilt a classic LR Defender.	
 *	Former Chairman of the Wattisham Military Clay Target Shooting Club.	                                               
