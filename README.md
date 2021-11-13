@@ -8,15 +8,17 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 ---
 
-## Professional Development Courses/Certifications</div>
+## Professional Development Courses/Certifications
 
-<div align="center">| <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRLxD-b5ymVkRtq2?e=X9i4AK">PMI PMP</a> | SQL User Cse (Udemy) | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRTeP8841WvOUdIW">CompTIA A+</a> | <a href="https://1drv.ms/b/s!AhiHKHWaEtD-gRjOhEV5x1CFyi55">CompTIA Network+</a>
-| CMI Level 6 Management & Leadership | Adv Excel Cse (Udemy)
-| APM Project Management (PMQ) | Lean Six Sigma (Yellow Belt)
-| Wharton Business Foundation Specialization (Coursera)
-| SmartSheet Product Certified User 
+||||
+|:---:|:---:|:---:|
+|PMI PMP|SQL User Cse (Udemy)|CompTIA A+/Network+|
+|CMI Level 6 Management & Leadership|Adv Excel Cse (Udemy)|APM Project Management (PMQ)|
+|Lean Six Sigma (Yellow Belt)|Wharton Business Foundation Specialization (Coursera)|SmartSheet Product Certified User|
 
-#### Professional Experience </div>
+---
+
+## Professional Experience
 
 **IT Project Manager**		                                  **(June 2021 - Current)**
 
