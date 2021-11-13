@@ -8,7 +8,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 ---
 
-## Professional Development Courses/Certifications
+## Professional Development
 
 ||||
 |:---:|:---:|:---:|
@@ -20,7 +20,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 ## Professional Experience
 
-**IT Project Manager**		                                  **(June 2021 - Current)**
+#### IT Project Manager | RSI | June 2021 - Current
 
 RSI is a ………………………………………….
 
@@ -31,7 +31,7 @@ RSI is a ………………………………………….
 *	Developed business analysis support from the PMO, with data reports providing leadership with insight into project profitability and accuracy in project scoping across the various domains our services are provided in. 
 *	Introduced a lessons learned repository to the PMO allowing all PMs to collaborate on issues whether specific to a project type (Datacenter, EUC, Wireless etc) or specific to a customer.
 
-**Aviation Training Project & Operations Manager - British Army (2020 - 2021)**
+#### Aviation Training Project & Operations Manager | British Army | 2020 - 2021
 
 Planned and executed the training pipeline for new UK Apache Helicopter Aircrew, prior to them joining front line operational units.
 *	Lead planner and coordinator for three major training events for Apache Aircrew under instruction, meeting specified training objectives within limited time and costs while communicating key risks, costs and schedule requirements. 
@@ -39,14 +39,14 @@ Planned and executed the training pipeline for new UK Apache Helicopter Aircrew,
 *	Increased flying output by 30% over a 6-month period. Acting as primary liaison between civilian apache helicopter maintenance providers and military users, smoothing resource usage and coordinating maintenance with flying hour requirements.
 *	Analyzed and documented lessons learned and created new templates to streamline process.  
 
-**Aviation Project & Operations Manager - British Army (2018 - 2020)**
+#### Aviation Project & Operations Manager | British Army | 2018 - 2020
 
 Responsible for the planning and execution of all exercises and operations for a unit of 120 personnel. 
 *	Managed daily squadron operations, coordinating cross functional teams. Introduced new agile methodologies, such as Kanban, for project development. 
 *	Organized and delivered briefings and written communication for all key stakeholders. Responsible for risk management. 
 *	Planned and executed four major unit exercises and two larger scale complex deployments across Europe within time and costs while managing all requirements, scope and team leader coordination.  
 
-**UK Helicopter Exchange Officer to USA - US Army (2018 - 2020)**
+#### UK Helicopter Exchange Officer (USA) | US Army | 2018 - 2020
 
 UK Apache Pilot representing the British Army during a three-year exchange with a US Army Unit Aviation Unit. 
 *	Sole individual chosen to represent the British Army on the Apache exchange, due to reliability, professional bearing and work ethic. Selected having been awarded best overall and best tactical student on one of the military’s most demanding courses.
@@ -54,13 +54,16 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 *	Maintenance Team Executive Officer supporting the Primary Manager, with a team of over 100 personnel, managing their training, HR requirements and work scheduling, enabling the unit to execute a 3,000 hour flying target. 
 
 
-### **Education**
-**University of Nottingham (2005 - 2008)**	--                                			                 Bachelor of Science (Honors) in Biology
+## Education
 
-**Royal Military Academy Sandhurst (2011 - 2012)**		—
-British Army Officer Leadership & Strategic Study  
- 
-**Open University (2018 - 2019)**   --   							                                                Foundation Degree, Aviation Systems Management
+**Open University (2018 - 2019)**
+-- Foundation Degree, Aviation Systems Management
+
+**Royal Military Academy Sandhurst (2011 - 2012)**	
+—- British Army Officer Leadership & Strategic Study  
+
+**University of Nottingham (2005 - 2008)**
+-- Bachelor of Science (Honors) in Biology
 
 ### **Additional**
 *	Twice awarded the Ward Booth Trophy, from the British Army Air Corps, for bringing the most credit to the Corps in a given year.
