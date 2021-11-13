@@ -56,14 +56,11 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 
 ## Education
 
-**Open University (2018 - 2019)**
--- Foundation Degree, Aviation Systems Management
+**Open University (2018 - 2019)** | Foundation Degree, Aviation Systems Management
 
-**Royal Military Academy Sandhurst (2011 - 2012)**	
-—- British Army Officer Leadership & Strategic Study  
+**Royal Military Academy Sandhurst (2011 - 2012)** | British Army Officer Leadership & Strategic Study  
 
-**University of Nottingham (2005 - 2008)**
--- Bachelor of Science (Honors) in Biology
+**University of Nottingham (2005 - 2008)** | Bachelor of Science (Honors) in Biology
 
 ### **Additional**
 *	Twice awarded the Ward Booth Trophy, from the British Army Air Corps, for bringing the most credit to the Corps in a given year.
