@@ -1,3 +1,21 @@
+ # Thomas Hall
+
+(206) 229-0275 | tsrhall87@gmail.com | [LinkedIn](https://www.linkedin.com/in/tsrhall/)
+
+---
+
+Software developer with experience in machine learning and data science in the process of making a career transition from structural engineering. I enjoy working on personal projects and collaborating with others as much as possible. In addition to keeping up with the latest machine learning tools, I was driven to understand how to build REST APIs and web applications in order to easily deploy and demonstrate my work to the online community.
+
+---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 # <div align="center">**Thomas Hall**</div>	
 
