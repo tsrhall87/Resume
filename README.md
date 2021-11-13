@@ -4,7 +4,7 @@
 
 ---
 
-Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my worth ethic and attitude to the challenging, diverse and ever-evolving Microsoft 
+Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my work ethic and attitude to a new, challenging & diverse environment at Microsoft.
 
 ---
 
