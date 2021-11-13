@@ -4,25 +4,10 @@
 
 ---
 
-Software developer with experience in machine learning and data science in the process of making a career transition from structural engineering. I enjoy working on personal projects and collaborating with others as much as possible. In addition to keeping up with the latest machine learning tools, I was driven to understand how to build REST APIs and web applications in order to easily deploy and demonstrate my work to the online community.
+Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my worth ethic and attitude to the challenging, diverse and ever-evolving Microsoft 
 
 ---
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-# <div align="center">**Thomas Hall**</div>	
 
-
-<div align="center">tsrhall87@gmail.com    |    (206) 229-0275    |     <a href="https://www.linkedin.com/in/tsrhall/">LinkedIn</a> </div>
-
-><div align="center">Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my worth ethic and attitude to the challenging, diverse and ever-evolving Microsoft </div>
 
 #### <div align="center">Professional Development Courses/Certifications</div>
 
