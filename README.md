@@ -24,7 +24,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 #### IT Project Manager | RSI | June 2021 - Current
 Project manager for an IT multivendor services and solutions company in the North West.
 
-> *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and all scheduling to deliver the most projects on both budget and schedule.
+> *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and  scheduling to deliver the most projects on both budget and schedule. This was reflected in an 11% increase in profit margin on my projects since joining, 10% more than any other PM.
 > *	Provided consultant Project Management support to a large financial company's IT department relocating their backup data center, managing their risks, communication and scheduling to provide clarity from complexity. This was the first time that RSI has provided Project Management as a service from their PMO.
 > *	Responsible for proactively managing risks to projects and delivering issue responses to maintain project schedule and budget, introducing new methods and standards for providing this support.
 > *	Developed business analysis support from the PMO, with data reports providing leadership with insight into project profitability and results of the accuracy in project scoping across the various disciplines our services are provided in. 
@@ -37,15 +37,15 @@ Planned and executed the training pipeline for new UK Apache Helicopter Aircrew,
 > *	Lead planner and coordinator for three major training events for Apache Aircrew under instruction, meeting specified training objectives within limited time and costs while communicating key risks, costs and schedule requirements. 
 > *	Coordinated and implemented project management tools and techniques for a 9-month aviation training course; creating greater visibility for stakeholders on schedule performance and causal factors. 
 > *	Increased flying output by 30% over a 6-month period. Acting as primary liaison between civilian apache helicopter maintenance providers and military users, smoothing resource usage and coordinating maintenance with flying hour requirements.
-> *	Analyzed and documented lessons learned and created new templates to streamline process.  
+> *	Analyzed and documented lessons learned and created new templates to streamline and encourage the data collection process among stakedholders.
 
 
 #### Aviation Project & Operations Manager | British Army | 2018 - 2020
 Responsible for the planning and execution of all exercises and operations for a unit of 120 personnel
 
-> *	Managed daily squadron operations, coordinating cross functional teams. Introduced new agile methodologies, such as Kanban, for project development. 
-> *	Organized and delivered briefings and written communication for all key stakeholders. Responsible for risk management. 
-> *	Planned and executed four major unit exercises and two larger scale complex deployments across Europe within time and costs while managing all requirements, scope and team leader coordination.
+> *	Managed daily squadron operations, coordinating cross functional teams. Introduced new agile methodologies, such as Kanban, for project planning. 
+> *	Organized and delivered briefings and written communication for all key stakeholders. Responsible for risk management of all ground and air assets in executing training and operational missions. 
+> *	Planned and executed four major unit exercises and two larger scale complex deployments, across Europe, within time and costs while managing all requirements, scope and team leader coordination. 
 
 
 #### UK Helicopter Exchange Officer (USA) | US Army | 2018 - 2020
