@@ -22,14 +22,13 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 
 #### IT Project Manager | RSI | June 2021 - Current
-RSI is a …………………………………………
+Project manager for an IT multivendor services and solutions company in the North West.
 
-> *	Delivered over 30 projects of various size across a variety of solutions to multiple customers with varying scopes, requirements and complexities.
-> *	Provided consultant Project Management support to a large financial companies IT department relocating their backup data center, delivering it under schedule and under budget. This was the first time that RSI has been able to sell Project Management as a service.
-> *	Responsible for proactively managing risks to projects and delivering issue responses to maintain project schedule and budget.
-> *	Primary support point of contact for customers in facilitating all pre-sales, execution and closure coordination. 
-> *	Developed business analysis support from the PMO, with data reports providing leadership with insight into project profitability and accuracy in project scoping across the various domains our services are provided in. 
-> *	Introduced a lessons learned repository to the PMO allowing all PMs to collaborate on issues whether specific to a project type (Datacenter, EUC, Wireless etc) or specific to a customer.
+> *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and all scheduling to deliver the most projects on both budget and schedule.
+> *	Provided consultant Project Management support to a large financial company's IT department relocating their backup data center, managing their risks, communication and scheduling to provide clarity from complexity. This was the first time that RSI has provided Project Management as a service from their PMO.
+> *	Responsible for proactively managing risks to projects and delivering issue responses to maintain project schedule and budget, introducing new methods and standards for providing this support.
+> *	Developed business analysis support from the PMO, with data reports providing leadership with insight into project profitability and results of the accuracy in project scoping across the various disciplines our services are provided in. 
+> *	Introduced a lessons learned repository for the PMO, allowing all PMs to collaborate on issues whether specific to a project type (Datacenter, EUC, Wireless etc) or specific to a customer.
 
 
 #### Aviation Training Project & Operations Manager | British Army | 2020 - 2021
