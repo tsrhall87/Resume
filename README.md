@@ -33,7 +33,7 @@ Project manager for an IT multivendor services and solutions company in the Nort
 
 
 #### Aviation Training Project & Operations Manager | British Army | 2020 - 2021
-Planned and executed the training pipeline for new UK Apache Helicopter Aircrew, prior to them joining front line operational units
+Planned and executed the training pipeline for new UK Apache Helicopter Aircrew, prior to them joining front line operational units.
 
 > *	Lead planner and coordinator for three major training events for Apache Aircrew under instruction, meeting specified training objectives within limited time and costs while communicating key risks, costs and schedule requirements. 
 > *	Coordinated and implemented project management tools and techniques for a 9-month aviation training course; creating greater visibility for stakeholders on schedule performance and causal factors. 
@@ -42,7 +42,7 @@ Planned and executed the training pipeline for new UK Apache Helicopter Aircrew,
 
 
 #### Aviation Project & Operations Manager | British Army | 2018 - 2020
-Responsible for the planning and execution of all exercises and operations for a unit of 120 personnel
+Responsible for the planning and execution of all exercises and operations for a unit of 120 personnel.
 
 > *	Managed daily squadron operations, coordinating cross functional teams. Introduced new agile methodologies, such as Kanban, for project planning. 
 > *	Organized and delivered briefings and written communication for all key stakeholders. Responsible for risk management of all ground and air assets in executing training and operational missions. 
@@ -50,7 +50,7 @@ Responsible for the planning and execution of all exercises and operations for a
 
 
 #### UK Helicopter Exchange Officer (USA) | US Army | 2018 - 2020
-UK Apache Pilot representing the British Army during a three-year exchange with a US Army Unit Aviation Unit
+UK Apache Pilot representing the British Army during a three-year exchange with a US Army Unit Aviation Unit.
 
 > *	Sole individual chosen to represent the British Army on the Apache exchange, due to reliability, professional bearing and work ethic. Selected having been awarded best overall and best tactical student on one of the military’s most demanding courses.
 > *	Led US teams on multiple high tempo and demanding operations in Afghanistan, flying over 350 hours in a 7 month period.
