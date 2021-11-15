@@ -70,8 +70,8 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 
 ## Additional
 *	Awarded the Ward Booth Trophy (2018 & 2020), from the British Army Air Corps, for bringing the most credit to the Corps in a given year.
-*	Awarded the US Army Air Medal and Achievement Medal, as a foreign officer, for service with the US Military during in Afghanistan.
-*	Avid skier, cyclist and hiker. Also a love of old Land Rovers having rebuilt a classic LR Defender.	
+*	Awarded the US Army Air Medal and Achievement Medal, as a foreign officer, for service with the US Military during Afghanistan operations.
+*	Avid skier, cyclist and hiker, with a love of old Land Rovers having rebuilt a classic Defender.	
 *	Former Chairman of the Wattisham Military Clay Target Shooting Club.	                                               
 
 
