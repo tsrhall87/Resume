@@ -1,6 +1,6 @@
  # Thomas Hall
 
-(206) 229-0275 | tsrhall87@gmail.com | [LinkedIn](https://www.linkedin.com/in/tsrhall/) | IR1 Visa | Kirkland, WA
+IR1 Visa | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com | [LinkedIn](https://www.linkedin.com/in/tsrhall/)
 
 ---
 
