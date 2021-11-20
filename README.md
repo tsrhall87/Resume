@@ -13,7 +13,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 ||||
 |:---:|:---:|:---:|
-|PMI PMP|SQL User Cse (Udemy)|CompTIA A+/Network+|
+|PMI PMP|CompTIA A+/Network+|SQL User Cse (Udemy)|
 |CMI Level 6 Management & Leadership|Adv Excel Cse (Udemy)|APM Project Management (PMQ)|
 |Lean Six Sigma (Yellow Belt)|Wharton Business Foundation Specialization (Coursera)|SmartSheet Product Certified User|
 
