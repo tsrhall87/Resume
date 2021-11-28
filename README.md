@@ -77,5 +77,5 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 *	Former Chairman of the Wattisham Military Clay Target Shooting Club.	                                               
 
 
-  [1]: http://www.linkedin.com/in/tsrhall87
+  [1]: http://www.linkedin.com/in/tsrhall/
   [2]: https://i.imgur.com/lyUv36y.png				               
