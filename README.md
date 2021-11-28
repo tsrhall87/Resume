@@ -6,7 +6,7 @@ IR1 Visa | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com |
 
 ---
 
-Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my work ethic and attitude to a new, challenging & diverse environment at Microsoft.
+Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. Military service provided brilliant opportunities leading cross-functional teams of over 100 personnel to achieve complex and often ambiguous projects that required innovation and determination. Eager to bring my work ethic and attitude to a new, challenging and diverse environment at Microsoft.
 
 ---
 
@@ -25,7 +25,7 @@ Passionate Project Manager with over a decade of experience in managing projects
 
 
 #### IT Project Manager | RSI | 2021 - Current
-Project manager for an IT multivendor services and solutions company in the North West.
+Project manager for an IT multivendor services and solutions company in the Northwest.
 
 > *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and  scheduling to deliver the most projects on both budget and schedule. This was reflected in an 11% increase in profit margin on my projects since joining, 10% more than any other PM.
 > *	Provided consultant Project Management support to a large financial company's IT department relocating their backup data center, managing their risks, communication and scheduling to provide clarity from complexity. This was the first time that RSI has provided Project Management as a service from their PMO.
