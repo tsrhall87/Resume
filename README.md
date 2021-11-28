@@ -1,6 +1,8 @@
  # Thomas Hall
 
-IR1 Visa | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com | [LinkedIn](https://www.linkedin.com/in/tsrhall/)
+IR1 Visa | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com | 
+
+[![alt text][2]][1]
 
 ---
 
@@ -76,5 +78,4 @@ UK Apache Pilot representing the British Army during a three-year exchange with 
 
 
   [1]: http://www.linkedin.com/in/tsrhall87
-  [2]: https://i.imgur.com/lyUv36y.png
-									               
+  [2]: https://i.imgur.com/lyUv36y.png				               
