@@ -29,7 +29,7 @@ Project manager for an IT multivendor services and solutions company in the Nort
 
 > *	Delivered over 30 projects of various sizes across a variety of disciplines managing scope, requirements, complexities and  scheduling to deliver the most projects on both budget and schedule. This was reflected in an 11% increase in profit margin on my projects since joining, 10% more than any other PM.
 > *	Provided consultant Project Management support to a large financial company's IT department relocating their backup data center, managing their risks, communication and scheduling to provide clarity from complexity. This was the first time that RSI has provided Project Management as a service from their PMO.
-> *	Introduced a new automated project submission method, eliminating errors in task assignment and introducing daily standups to maintain efficient delegation and response to submissions.
+> *	Introduced a new automated project submission process, eliminating errors in task assignment and introducing daily standups to maintain efficient delegation and response to submissions.
 > *	Created business analysis support from the PMO, with data reports providing leadership with insight into project profitability and results of the accuracy in project scoping across the various disciplines our services are provided in. 
 > *	Introduced a lessons learned repository for the PMO, allowing all PMs to collaborate on issues whether specific to a project type (Datacenter, EUC, Wireless etc) or specific to a customer.
 
