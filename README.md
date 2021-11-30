@@ -1,6 +1,6 @@
  # Thomas Hall
 
-IR1 Visa | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com | 
+IR1 Green Card Holder | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com | 
 
 [![alt text][2]][1]
 
