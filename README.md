@@ -6,7 +6,7 @@ IR1 Green Card Holder | Kirkland, WA | (206) 229-0275 | tsrhall87@gmail.com |
 
 ---
 
-Passionate Project Manager with over a decade of experience in managing projects and operations in high pressure, multi-national environments. Consistently demonstrates an exceptional work ethic with a passion for technology and the development of myself and colleagues through fostering a collaborative environment. 10 years of military service provided challenging opportunities managing cross-functional teams to achieve complex projects in ambiguous environments that regularly required innovation and dynamic problem solveing skills. 
+Innovative and dedicated Project Manager with a decade of experience managing projects and operations in high pressure, multi- national environments. Consistently demonstrated an exceptional work ethic with a passion for technology and the development of myself and colleagues by fostering a collaborative environment. 10 years of military service provided challenging opportunities working with cross-functional teams to achieve complex and ambiguous projects requiring innovation and dynamic problem solving skills.
 
 ---
 
