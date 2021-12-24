@@ -24,14 +24,16 @@ Innovative and dedicated Project Manager with a decade of experience managing pr
 ## Professional Experience
 
 
-#### IT Project Manager | Right Systems | 2021 - Current
-Project Manager for an IT multivendor services and solutions company.
-
-> *	Increased profit margin by 11% across over 30 projects of various sizes and in a variety of technologies. Effectively managing scope, requirements, complexities and  scheduling to deliver the most projects on both budget and schedule.
-> *	Provided consultant Project Management support to a retail financial services provider for a backup data center relocation. Managed their risks, communication and scheduling to provide clarity from complexity and delivering the project early and on budget. This was the first time that Right Systems has provided Project Management as a service from their PMO.
-> *	Implemented  automated project submission process, eliminating errors in task assignment and reducing dependencies. Introduced daily standups to maintain efficient delegation and response to submissions.
-> *	Created new PMO processes for project reporting to provide accurate reports to leadership enabling early insight to when projects are showing risk of missing budgetary targets and identifying trends in scope estimation within service practices.
-> *	Build a project retrospective repository for the PMO, allowing all PMs to collaborate on issues whether specific to a project type (Datacenter, EUC, Wireless etc) or specific to a customer.
+#### SENIOR PROJECT MANAGER | Right Systems Inc. |  WA, USA |  2021 – 
+IT Project Manager, promoted to Senior Project Manager within six months, providing multivendor IT services and solutions.
+> *	Increased profit margin by 11% across 30 projects of various sizes and technologies. Effectively managing scope, requirements and scheduling to deliver the most projects on budget and schedule, with highest PM revenue for fiscal year within 6 months.
+> *	Provided consultant Project Management support to a retail financial services provider for a backup data center relocation.
+Managed their risks, communication and scheduling to provide clarity from complexity and delivering the project early and on
+budget. This was the first time that Right Systems has provided Project Management as a service from their PMO.
+> *	Implemented an automated project submission process, eliminating errors in task assignment and reducing dependencies.
+Introduced daily standups to maintain efficient delegation and response to submissions.
+> *	Created new PMO processes for project reporting to provide accurate reports to leadership enabling early insight to when projects
+are showing risk of missing budgetary targets and identifying trends in scope estimation within service practices.
 
 
 #### Aviation Training Project & Operations Manager | British Army | 2020 - 2021
