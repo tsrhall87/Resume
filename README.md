@@ -24,7 +24,7 @@ Innovative and dedicated Project Manager with a decade of experience managing pr
 ## Professional Experience
 
 
-#### SENIOR PROJECT MANAGER | Right Systems Inc. |  WA, USA |  2021 – 
+#### Senior Project Manager | Right Systems Inc. |  WA, USA |  2021 – 
 IT Project Manager, promoted to Senior Project Manager within six months, providing multivendor IT services and solutions.
 > *	Increased profit margin by 11% across 30 projects of various sizes and technologies. Effectively managing scope, requirements and scheduling to deliver the most projects on budget and schedule, with highest PM revenue for fiscal year within 6 months.
 > *	Provided consultant Project Management support to a retail financial services provider for a backup data center relocation.
@@ -36,7 +36,7 @@ Introduced daily standups to maintain efficient delegation and response to submi
 are showing risk of missing budgetary targets and identifying trends in scope estimation within service practices.
 
 
-#### Aviation Training Project & Operations Manager | British Army | 2020 - 2021
+#### Aviation Training Program Manager | British Army | 2020 - 2021
 Planned and executed the training pipeline for new UK Apache Helicopter Aircrew, prior to the aircrew joining front line operational units.
 
 > *	Lead planner and coordinator for three major training events for Apache Aircrew under instruction, meeting specified training objectives within limited time and costs while communicating key risks, costs and schedule requirements. 
@@ -45,7 +45,7 @@ Planned and executed the training pipeline for new UK Apache Helicopter Aircrew,
 > *	Analyzed and documented lessons learned and created new templates to streamline and encourage the data collection process among stakedholders.
 
 
-#### Aviation Project & Operations Manager | British Army | 2018 - 2020
+#### Aviation Program Manager | British Army | 2018 - 2020
 Responsible for the planning and execution of all exercises and operations for a unit of 120 personnel.
 
 > *	Managed daily unit operations, coordinating cross functional teams. Introduced new agile methodologies, such as Kanban, for project planning. 
